@@ -1,5 +1,5 @@
 Payment-Gateway-Integration
-Technologies used are HTML,CSS and JavaScript. Payment gateway-Razorpay
+        Technologies used are HTML,CSS and JavaScript. Payment gateway-Razorpay
 
 
 
